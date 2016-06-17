@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Great Body</string>
+    <string name="start_app_text">Cześć, ta aplikacja jest przeznaczona dla ludzi, którzy chcą poprawić wygląd swojego brzucha.
+        \nPamiętaj, że w treningu najważniejsza jest regularność!
+
+
+    </string>
+    <string-array name="spinner_array">
+        <item>Ćwiczę pierwszy raz</item>
+        <item>Początkujący</item>
+        <item>Średnio-zaawansowany</item>
+        <item>Zaawansowany</item>
+        <item>Ekspert</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="short_description">
+        Przed rozpoczęciem ćwiczeń znajdź odpowiednie do tego miejsce.
+        Powinno być ono twarde, w żadnym wypadku nie wykonuj tych ćwiczeń na łóżku!
+        Ćwiczenia wykonywane będą w pozycji leżącej.
+        Podczas ich wykonywania skupiaj się na poprawnej technice.
+        Ćwiczenia angażują mięśnie proste oraz skośne, w górnej i dolnej części brzucha.
+    </string>
+
+</resources>
